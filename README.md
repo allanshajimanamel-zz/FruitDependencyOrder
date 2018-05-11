@@ -6,7 +6,7 @@ eg. for input:
 
 apple 		 -> [banana, orange]
 banana		 -> [strawberry]
-strawberry 	 -> [orange]
+strawberry -> [orange]
 orange 		 -> []
 papaya 		 -> []
 
